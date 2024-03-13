@@ -1,0 +1,6 @@
+precioobserver\ProductoObserver.class
+precioobserver\PrecioObserver.class
+precioobserver\Producto$PrecioEvent.class
+precioobserver\Producto$ProductoObservable.class
+precioobserver\Producto$1.class
+precioobserver\Producto.class
